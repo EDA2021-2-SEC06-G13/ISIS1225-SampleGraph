@@ -12,3 +12,14 @@ d)Qué relación creen que existe entre el número de vértices, arcos y el tiem
 -El tiempo que toma la operacion 4 varia dependiendo del numero de vértices y arcos presentes. Pues, entre mas vértices y arcos 
 tenga presente mayor sera el tiempo que le tomara realizar la ejecucion, ya que tendra que hacer mas recorridos por el grafo. 
 
+e)El grafo definido es denso o disperso?, ¿El grafo es dirigido o no dirigido?, ¿El grafo está fuertemente conectado?
+-El grafo es denso, no dirigido y no es fuertemente conectado
+
+f)Cuál es el tamaño inicial del grafo?
+-El total de estaciones que se encuentra en el csv
+
+g)Cuál es la Estructura de datos utilizada?
+-Se utilizó mapas y grafos, donde el mapa tiene como llave las paradas ('stops') y el grafo usa las conexiones.
+
+h)Cuál es la función de comparación utilizada?
+-La funcion de comparación utilizada es la llamada compareStopIds, la cual se encarga de comparar cada una de las estaciones
