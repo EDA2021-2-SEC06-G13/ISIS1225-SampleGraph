@@ -8,3 +8,7 @@ es necesario aumentar la maxima profundidad de recursividad para asi resolver el
 c)Cuál es el valor inicial que tiene Python cómo límite de recursión?
 -Por defecto, la pila de recursion de python no puede exceder 1000
 
+d)Qué relación creen que existe entre el número de vértices, arcos y el tiempo que toma la operación 4?
+-El tiempo que toma la operacion 4 varia dependiendo del numero de vértices y arcos presentes. Pues, entre mas vértices y arcos 
+tenga presente mayor sera el tiempo que le tomara realizar la ejecucion, ya que tendra que hacer mas recorridos por el grafo. 
+
